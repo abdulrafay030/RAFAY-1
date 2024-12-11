@@ -1,0 +1,9 @@
+upstate manufactures a product that has the following standard costs: direct material : 40 yards at rs. 2.70 per yard rs. 108, direct labour: 8 hours at rs. 18 per hour 144 , the following information pertains to july: direct material purchased: 42500 yards at rs. 2.78 per yard, or rs. 118150, direct material used, 36000 yards , direct labour: 7500 hours at rs. 18.30 per hour, or rs. 137250, actual complete production: 1050 units. required: calculate the direct material price and quantity variance and the direct labour rate and defficiency variences. indicate whether each variance is favorable or unfavorable. 
+
+
+
+khanzada corporation sells three products: j, k, and l. the following information was taken from a recent budget: (j) unit sales: 40000, selling price: 60, variable cost: 40. (k) unit sales: 130000, selling price: 80, variable cost: 65. (l) unit sales: 30000, selling price: 75, variable cost: 50. total fixed cost are anticipated to be rs. 245000. required: a) determine khanzadas sales mix. b) determine the weighted average contribution margin. c) calculate the number of units of j, k and l that must be sold to break even. d) if khanzada desires to increase company profitability should it attempt to increase or decrease the sales ofproduct k relative to those of j and l? briefly explain. 
+
+
+engberg company installs lawn sod in home yards. the company most recent monthly contribution format income statement follows: sale: amount 80000, % of sales: 100 %, variable: amount 32000, % of sales: 40 %, contribution: amount 48000, % of sales: 60 %, fixed expenses: amount 38000, net operating income: amount 10000. required: 1. compute the company degree of operating leverage. 
+2. using the degree of operating leverage, estimate the impact on net operating income of a 5 % increase in sales. 3. verify you estimate from part (2) above by constructing a new contribution format income statement for the company assuming a 5 % increase in sales.
